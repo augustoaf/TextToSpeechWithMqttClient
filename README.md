@@ -4,6 +4,7 @@ This app is a Mqtt client to subscribe to a topic, convert the text received in 
 Requirements:  
 -pip3 install paho-mqtt  
 -pip3 install gTTS  
+apt-get install python-pygame
 The usage of the gtts lib requires internet connection.  
 
 References:  
